@@ -1,0 +1,10 @@
+/.vs/
+/App/AS_DEBUG/
+/App/example/
+/App/nlp/
+/App/Screenshot/
+/App/*.exe
+/App/*_log.html
+/Intermediate/
+/*.user
+
